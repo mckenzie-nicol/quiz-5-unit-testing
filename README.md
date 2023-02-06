@@ -1,1 +1,3 @@
-# quiz-5-unit-testing
+# Team members:
+Mckenzie Nicol
+Reza Hedieloo
